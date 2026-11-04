@@ -166,7 +166,7 @@ Adaptive tiers reduce render resolution, terrain detail, foliage, shadow distanc
 - Ad integration remains a no-op until provider eligibility, publisher approval and policy requirements are satisfied.
 - Initial ad placement is limited to appropriate website/landing content, not active driving controls.
 - No personalised tracking by default.
-- The project owner is under 18. Do not bypass account age requirements or use false identity details. A parent or guardian may need to own and manage an eligible advertising account.
+- Follow all platform age and eligibility requirements. Where a service requires an adult account holder, a parent or guardian must review and manage that account. Never bypass age checks or use false identity details.
 - Do not put credentials, payment details or identity documents in the repository or external AI prompts.
 
 ## 13. QA and release gates
